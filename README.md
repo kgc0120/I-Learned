@@ -1,3 +1,3 @@
 # I-Learned
 
-- [inflearn](./inflearn/inflearn.md)
+- [inflearn](./inflearn.md)

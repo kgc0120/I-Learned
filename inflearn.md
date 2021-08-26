@@ -7,6 +7,7 @@
 - [더 자바, 코드를 조작하는 다양한 방법- 2021/02](https://www.inflearn.com/certificate/369033-324184-2017764)
 - [데이터베이스 오라클(Oracle) - 2021/03](https://www.inflearn.com/certificate/369033-324996-2065439)
 - [자바 ORM 표준 JPA 프로그래밍 - 기본편 -2021/06](https://www.inflearn.com/certificate/369033-324109-2442370)
+- [실전! 스프링 부트와 JPA 활용1 - 웹 애플리케이션 개발](https://www.inflearn.com/certificate/369033-324119-4526443)
 
 
 ### 2020

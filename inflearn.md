@@ -14,6 +14,7 @@
 - [실전! 스프링 부트와 JPA 활용1 - 웹 애플리케이션 개발 -2021/08](https://www.inflearn.com/certificate/369033-324119-4526443)
 - [실전! 스프링 부트와 JPA 활용2 - API 개발과 성능 최적화 -2021/09](https://www.inflearn.com/certificate/369033-324214-4580150)
 - [모든 개발자를 위한 HTTP 웹 기본 지식 -2021/09](https://www.inflearn.com/certificate/369033-326277-4580149)
+- [실전! Querydsl -2021/10](https://www.inflearn.com/certificate/369033-324476-4638112)
 - [스프링 MVC 2편 - 백엔드 웹 개발 활용 기술 - 2021/12](https://www.inflearn.com/certificate/369033-327260-4735005)
 
 

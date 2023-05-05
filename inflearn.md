@@ -2,6 +2,9 @@
 
 ## Certificate
 
+### 2023
+- [이팩티브 자바 완벽 공략 1부 - 2023/04](https://www.inflearn.com/certificate/369033-328628-11726313)
+
 ### 2022
 - [스프링 핵심 원리 - 고급편 - 2022/09](https://www.inflearn.com/certificate/369033-327901-10747057) 
 - [실전! 스프링 데이터 JPA - 2022/05](https://www.inflearn.com/certificate/369033-324474-10461989)
